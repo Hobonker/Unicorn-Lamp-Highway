@@ -42,6 +42,7 @@ I just ended up exporting the DXF file for the head sketch and aliging it in the
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/unicornlampbody.png)
 
 Working in fusion at 2 AM is not it
+This is my third time using fusion if I just realized I couldn't do the thingy to two components I would've slept like 2 hours earlier ugh
 
 Time ~ 6 hrs
 
