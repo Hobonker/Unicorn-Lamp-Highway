@@ -1,8 +1,5 @@
 # Unicorn Lamp
 
-# Inspiration
-I'm going to a boarding school so I need stuff for my dorm there. The mascot of the school is unicorns so I decided to try my best shot at a unicorn lamp since I needed a lamp.
-
 # 5/24/25
 I brainstormed what I wanted to do this day. I wanted to build something cool to put into my dorm and I decided to go for a lamp since I had some lights and microcontrollers left over from an old project I did before highway so it was a good way to repurpose it. I went through my old stuff to make sure it would work for this project and then did some research online about lamps and tinkered with my LEDs and Arduino.
 
