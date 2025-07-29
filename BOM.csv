@@ -1,9 +1,8 @@
 Item,Quantity,Link,Price
-Seeed Studio XIAO RP2040,1, https://www.amazon.com/Microcontroller-Dual-Core-MicroPython-CircuitPython-Interfaces/dp/B09NNVNW7M/ref=sr_1_1_sspa?crid=1BP9MJ1JWL320&dib=eyJ2IjoiMSJ9.xnFTWEABTa7hK7xUR4uybbg_9k1OMcwqneBd3L1DkVj9NQ_ha3vqWNTOWWtRxW7hCSYjAo2lIWJ_6QdLAflj-OY0WQCCZRkoZvMnkaWM3DRtbKrR42OyBzjFi-ra28fAtw9_WOzJ3K4E59Ga1_Gb7QNznqgfW3w9ASFQVXFEmIbhUstzazJr1-YrPWuty_4ZDl9_GvJiB124XhsZcfoSSC-iMXQ5cmw5nrkbB6DIobU.-ZSWK7eaTZXcmEE-PQSuUucClMWranfw9V8cIaXTFJ0&dib_tag=se&keywords=xiao%2Brp2040&qid=1753772664&sprefix=xiao%2Brp2040%2Caps%2C90&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1, $10
-SK6812 Mini RGB LEDs,8, N/A I already have, 0
-Power Bank USB C,1, https://www.walmart.com/ip/Pocket-Juice-Slim-Pro-5-000mAh-Power-Bank-Portable-Charger-with-Dual-USB-Ports/334405038?wmlspartner=wlpa&selectedSellerId=101136528&selectedOfferId=9BF700709EE934B3A27FD5F56E5F3D48&conditionGroupCode=1&gclsrc=aw.ds&&adid=22222222227334405038_101136528_180573701668_20437639194&wl0=&wl1=g&wl2=c&wl3=725264444605&wl4=pla-2382980941321&wl5=1021055&wl6=&wl7=&wl8=&wl9=pla&wl10=566027763&wl11=online&wl12=334405038_101136528&veh=sem&gad_source=1&gad_campaignid=20437639194&gbraid=0AAAAADmfBIpWd1a8JhVxvobKg8eJpyBTn&gclid=Cj0KCQjw4qHEBhCDARIsALYKFNPlnoEpzrRY_ZHs6mDndQTPkru0LyJCXFN5aU6Ldwl-TrgM5SPsDWsaAhqOEALw_wcB, $10
-Wires (22 AWG),1m,For power and signal (red = VCC, black = GND, yellow = data)
-Jumper Wires (M-M),Assorted, N/A I already have, 0
-USB-C Cable,1, N/A I already have, 0
-Superglue or Hot Glue,1, N/A I already have, 0
-Breadboard (optional),1, N/A I already have, 0
+Seeed Studio XIAO RP2040,1,https://www.amazon.com/dp/B09NNVNW7M,10
+SK6812 Mini RGB LEDs,8,N/A I already have,0
+Power Bank USB C,1,https://www.walmart.com/ip/334405038,10
+Jumper Wires (M-M),Assorted,N/A I already have,0
+USB-C Cable,1,N/A I already have,0
+Superglue or Hot Glue,1,N/A I already have,0
+Breadboard (optional),1,N/A I already have,0
