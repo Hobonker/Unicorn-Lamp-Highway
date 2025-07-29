@@ -30,3 +30,17 @@ Wires
 
 Power Bank USB C
 
+
+# Table
+### Bill of Materials
+
+| Item                     | Quantity | Link                                                   | Price |
+|--------------------------|----------|--------------------------------------------------------|-------|
+| Seeed Studio XIAO RP2040 | 1        | [Amazon](https://www.amazon.com/dp/B09NNVNW7M)         | $10   |
+| SK6812 Mini RGB LEDs     | 8        | N/A I already have                                     | $0    |
+| Power Bank USB C         | 1        | [Walmart](https://www.walmart.com/ip/334405038)        | $10   |
+| Jumper Wires (M-M)       | Assorted | N/A I already have                                     | $0    |
+| USB-C Cable              | 1        | N/A I already have                                     | $0    |
+| Superglue or Hot Glue    | 1        | N/A I already have                                     | $0    |
+| Breadboard               | 1        | N/A I already have                                     | $0    |
+
