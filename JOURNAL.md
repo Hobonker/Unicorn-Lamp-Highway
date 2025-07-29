@@ -1,9 +1,9 @@
 # Unicorn Lamp
 
 # 5/24/25
-I brainstormed what I wanted to do this day. I wanted to build something cool to put into my dorm and I decided to go for a lamp since I had some lights and microcontrollers left over from an old project I did before highway so it was a good way to repurpose it. I went through my old stuff to make sure it would work for this project and then did some research online about lamps and tinkered with my LEDs and Arduino.
+I brainstormed what I wanted to do this day. I wanted to build something cool to put into my dorm and I decided to go for a lamp. I did research on what I wanted to use and then did my schematic.
 
-Time ~ 2 hrs
+Time ~ 3 hrs
 
 # 5/26/25
 Realizing I need to lock in I started modeling the base
@@ -45,6 +45,11 @@ Time ~ 6 hrs
 
 # 5/29/25
 
-Repository I summon you and I also polished some of the cad. I'm gonna use the light as a horn hence the lack of horn in the cad. It'll hopefully look like a laser shooting out of it's head once I build it.
+I put the LEDs into the CAD and I realized that combining them is pointless because I have to split it in order to print anyway so I just added the LEDs in the seperate files and I also redid the hollow parts on them because I didn't use shell correctly previously.
 
-Time ~ 1 hr
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Hollow%20Head%20Unicorn.png)
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/LED%20Circuits.png)
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Hollow%20Torso1.png)
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Hollow%20Torso2.png)
+
+Time ~ 5 hrs
