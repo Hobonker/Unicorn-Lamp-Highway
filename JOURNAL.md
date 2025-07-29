@@ -1,7 +1,9 @@
 # Unicorn Lamp
 
 # 5/24/25
-I brainstormed what I wanted to do this day. I wanted to build something cool to put into my dorm and I decided to go for a lamp. I did research on what I wanted to use and then did my schematic.
+I brainstormed what I wanted to do this day. I wanted to build something cool to put into my dorm and I decided to go for a lamp. I did research on what I wanted to use and then did my schematic. I've only ever used KiCad once before this so it took a bit.
+
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Unicorn%20Lamp%20Schematic.png)
 
 Time ~ 3 hrs
 
@@ -51,5 +53,6 @@ I put the LEDs into the CAD and I realized that combining them is pointless beca
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/LED%20Circuits.png)
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Hollow%20Torso1.png)
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Hollow%20Torso2.png)
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Hollow%20Head%20Connection.png)
 
 Time ~ 5 hrs
