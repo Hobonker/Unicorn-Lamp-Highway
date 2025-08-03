@@ -32,6 +32,8 @@ Power Bank USB C
 
 PCB
 
+Switch
+
 # Table
 ### Bill of Materials
 (I have prime so no shipping cost and I'll buy the power bank in person)
@@ -46,4 +48,5 @@ PCB
 | Superglue or Hot Glue    | 1        | N/A I already have                                     | $0    |
 | Breadboard               | 1        | N/A I already have                                     | $0    |
 | PCB                      | 5        | JLC PCB                                                | $25   |
+| Switch                   | 1        | N/A I already have                                     | $25   |
 
