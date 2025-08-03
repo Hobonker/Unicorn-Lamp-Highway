@@ -1,5 +1,5 @@
 # Unicorn Lamp
-Total Time ~ 20 hrs
+Total Time ~ 20 hrs (25 hrs after revision)
 # 5/24/25
 I brainstormed what I wanted to do this day. I wanted to build something cool to put into my dorm and I decided to go for a lamp. I did research on what I wanted to use and then did my schematic. I've only ever used KiCad once before this so it took a bit.
 
@@ -54,5 +54,21 @@ I put the LEDs into the CAD and I realized that combining them is pointless beca
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Hollow%20Torso1.png)
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Hollow%20Torso2.png)
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Hollow%20Head%20Connection.png)
+
+Time ~ 5 hrs
+
+# 8/3
+
+So I'm back and I changed the wiring to a PCB 
+
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/KiCad%20PCB.png)
+
+Then I CAD it, it was too big at first so I made it a bit smaller than the previous image
+
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Unilamp%20PCB.png)
+
+I made full assembly with head, body and PCB, edit head to fit the PCB into hole, there's gap inbetween so you can see the hollow part of it still.
+
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Full%20Assembled.png)
 
 Time ~ 5 hrs
