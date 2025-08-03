@@ -43,4 +43,5 @@ Power Bank USB C
 | USB-C Cable              | 1        | N/A I already have                                     | $0    |
 | Superglue or Hot Glue    | 1        | N/A I already have                                     | $0    |
 | Breadboard               | 1        | N/A I already have                                     | $0    |
+| PCB                      | 5        | JLC PCB                                                | $25   |
 
