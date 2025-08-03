@@ -35,6 +35,7 @@ PCB
 # Table
 ### Bill of Materials
 (I have prime so no shipping cost and I'll buy the power bank in person)
+
 | Item                     | Quantity | Link                                                   | Price |
 |--------------------------|----------|--------------------------------------------------------|-------|
 | Seeed Studio XIAO RP2040 | 1        | [Amazon](https://www.amazon.com/dp/B09NNVNW7M)         | $10   |
