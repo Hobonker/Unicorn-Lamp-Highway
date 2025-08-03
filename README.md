@@ -6,7 +6,7 @@ I'm going to a boarding school so I need stuff for my dorm there. The mascot of 
 # What is it?
 I mean... it's in the name. It's a lamp in the shape of a unicorn what else could it be
 
-![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Unicorn%20Lamp%20Schematic.png)
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Schematic%20Lamp.png)
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Hollow%20Head%20Unicorn.png)
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Hollow%20Head%20Connection.png)
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/LED%20Circuits.png)
