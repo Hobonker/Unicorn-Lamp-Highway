@@ -30,6 +30,7 @@ Wires
 
 Power Bank USB C
 
+PCB
 
 # Table
 ### Bill of Materials
