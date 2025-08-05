@@ -11,7 +11,7 @@ I mean... it's in the name. It's a lamp in the shape of a unicorn what else coul
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Unilamp%20PCB.png)
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Hollow%20Torso1.png)
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Hollow%20Torso2.png)
-![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Full%20Assembled.png)
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Connected%20Full%20Assembly.png)
 
 
 
