@@ -3,7 +3,7 @@ Total Time ~ 20 hrs (30 hrs after revision)
 # 5/24/25
 I brainstormed what I wanted to do this day. I wanted to build something cool to put into my dorm and I decided to go for a lamp. I did research on what I wanted to use and then did my schematic. I've only ever used KiCad once before this so it took a bit.
 
-![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Unicorn%20Lamp%20Schematic.png)
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Schematic%20Lamp.png)
 
 Time ~ 3 hrs
 
