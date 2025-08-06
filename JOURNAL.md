@@ -1,5 +1,5 @@
 # Unicorn Lamp
-Total Time ~ 20 hrs (26 hrs after revision)
+Total Time ~ 20 hrs (30 hrs after revision)
 # 5/24/25
 I brainstormed what I wanted to do this day. I wanted to build something cool to put into my dorm and I decided to go for a lamp. I did research on what I wanted to use and then did my schematic. I've only ever used KiCad once before this so it took a bit.
 
@@ -81,3 +81,16 @@ I made assembly of head and whole lamp without any spaces
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Connected%20Lamp%20Head.png)
 
 Time ~ 1 hr
+
+# 8/6
+
+I technically started working 10pm ish on 8/5 but it's after 2 am right now on 8/6 so I'm just gonna journal here
+
+Added in screw supports for my unicorn head to screw on, made the body backboard area flat, made the head connecting area flat, changed head hole from square to circle to fit same place on body, cut off some of the bottom of the head so it fits onto the body without any clipping. Uh I made like 4-5 different iterations shoutout Tanishq & Sharon for helping me and pointing out issues!
+
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/FINAL%20Full%20Assembly.png)
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/FINAL%20UniBody.png)
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/FINAL%20UniHead.png)
+
+Time ~ 4 hrs
+
