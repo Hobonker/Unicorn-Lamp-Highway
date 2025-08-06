@@ -9,9 +9,9 @@ I mean... it's in the name. It's a lamp in the shape of a unicorn what else coul
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Schematic%20Lamp.png)
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/FINAL%20UniHead.png)
 ![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Unilamp%20PCB.png)
-![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/BatteryPack.png)
-![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/FINAL%20UniBody.png)
-![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/FINAL%20Lamp%20Assembly%20v2.png)
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/FINAL%20Lamp%20Body%20Cable%20Port.png)
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/FINAL%20Lamp%20Body%20v2.png)
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/FINAL%20Lamp%20Assembly%20v3.png)
 
 
 
@@ -28,7 +28,7 @@ Batteries
 
 Wires
 
-Power Bank USB C
+USB C to Wall Cable
 
 PCB
 
@@ -38,18 +38,18 @@ Screws
 
 # Table
 ### Bill of Materials
-(I have prime so no shipping cost and I'll buy the power bank in person)
 
-| Item                     | Quantity | Link                                                   | Price |
-|--------------------------|----------|--------------------------------------------------------|-------|
-| Seeed Studio XIAO RP2040 | 1        | [Amazon](https://www.amazon.com/dp/B09NNVNW7M)         | $10   |
-| SK6812 Mini RGB LEDs     | 8        | N/A I already have                                     | $0    |
-| Power Bank USB C         | 1        | [Walmart](https://www.walmart.com/ip/334405038)        | $10   |
-| Jumper Wires (M-M)       | Assorted | N/A I already have                                     | $0    |
-| USB-C Cable              | 1        | N/A I already have                                     | $0    |
-| Superglue or Hot Glue    | 1        | N/A I already have                                     | $0    |
-| Breadboard               | 1        | N/A I already have                                     | $0    |
-| PCB                      | 5        | JLC PCB                                                | $25   |
-| Switch                   | 1        | N/A I already have                                     | $25   |
-| Screws                   | 2        | N/A I already have                                     | $0   |
+
+| Item                     | Quantity | Link                                                                    | Price |
+|--------------------------|----------|-------------------------------------------------------------------------|-------|
+| Seeed Studio XIAO RP2040 | 1        | [Amazon](https://www.amazon.com/dp/B09NNVNW7M)                          | $10   |
+| SK6812 Mini RGB LEDs     | 8        | N/A I already have                                                      | $0    |
+| USB C to Wall Cable      | 1        | https://www.amazon.com/USB-C-Wall-Fast-Charger/dp/B0CF5CLMVV?gQT=1      | $10   |
+| Jumper Wires (M-M)       | Assorted | N/A I already have                                                      | $0    |
+| USB-C Cable              | 1        | N/A I already have                                                      | $0    |
+| Superglue or Hot Glue    | 1        | N/A I already have                                                      | $0    |
+| Breadboard               | 1        | N/A I already have                                                      | $0    |
+| PCB                      | 5        | JLC PCB                                                                 | $25   |
+| Switch                   | 1        | N/A I already have                                                      | $25   |
+| Screws                   | 2        | N/A I already have                                                      | $0    |
 
