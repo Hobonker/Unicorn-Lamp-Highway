@@ -33,6 +33,8 @@ PCB
 
 Switch
 
+Screws
+
 # Table
 ### Bill of Materials
 (I have prime so no shipping cost and I'll buy the power bank in person)
@@ -48,4 +50,5 @@ Switch
 | Breadboard               | 1        | N/A I already have                                     | $0    |
 | PCB                      | 5        | JLC PCB                                                | $25   |
 | Switch                   | 1        | N/A I already have                                     | $25   |
+| Screws                   | 2        | N/A I already have                                     | $0   |
 
