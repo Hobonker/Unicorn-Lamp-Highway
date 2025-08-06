@@ -44,12 +44,12 @@ Screws
 |--------------------------|----------|-------------------------------------------------------------------------|-------|
 | Seeed Studio XIAO RP2040 | 1        | [Amazon](https://www.amazon.com/dp/B09NNVNW7M)                          | $10   |
 | SK6812 Mini RGB LEDs     | 8        | N/A I already have                                                      | $0    |
-| USB C to Wall Cable      | 1        | https://www.amazon.com/USB-C-Wall-Fast-Charger/dp/B0CF5CLMVV?gQT=1      | $10   |
+| USB C to Wall Cable      | 1        | https://www.amazon.com/USB-C-Wall-Fast-Charger/dp/B0CF5CLMVV?gQT=1      | $5    |
 | Jumper Wires (M-M)       | Assorted | N/A I already have                                                      | $0    |
 | USB-C Cable              | 1        | N/A I already have                                                      | $0    |
 | Superglue or Hot Glue    | 1        | N/A I already have                                                      | $0    |
 | Breadboard               | 1        | N/A I already have                                                      | $0    |
 | PCB                      | 5        | JLC PCB                                                                 | $25   |
-| Switch                   | 1        | N/A I already have                                                      | $25   |
+| Switch                   | 1        | N/A I already have                                                      | $0    |
 | Screws                   | 2        | N/A I already have                                                      | $0    |
 
