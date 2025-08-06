@@ -96,14 +96,14 @@ Time ~ 4 hrs
 
 Yeah so I'm still here it's 4 am I uh changed the hole in the unicorn head to be smaller so the PCB would definitely not fall through, added CAD for battery pack and mount.
 
-!image[https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/BatteryPack.png]
-!image[https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Lamp%20Head%20Smaller%20Hole.png]
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/BatteryPack.png)
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Lamp%20Head%20Smaller%20Hole.png)
 
 Time ~ 1 hr (I spent like half the time waiting/recieving feedback so it's only 1 hr not 2 from 2-4 am)
 
 Yeah its 5 AM, power bank gone, wall cable replace it, remove all the work I just did for the battery and make new hole in body for wall cable. Head hole become even smaller.
 
-!image[https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/PCB%20does%20not%20fall%20into%20this%20one.png]
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/PCB%20does%20not%20fall%20into%20this%20one.png)
 
 100% sure PCB is larger than hole in the top of lamp while still allowing for cable.
 
