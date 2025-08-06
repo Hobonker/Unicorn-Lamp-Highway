@@ -1,5 +1,9 @@
-# Unicorn Lamp
-Total Time ~ 20 hrs (32 hrs after revision)
+---
+Title: Unicorn Lamp
+Author: Hobonker/Andrew
+Description: Unicorn Lamp that serves as a desk lamp
+Total Time: ~32 hours
+---
 # 5/24/25
 I brainstormed what I wanted to do this day. I wanted to build something cool to put into my dorm and I decided to go for a lamp. I did research on what I wanted to use and then did my schematic. I've only ever used KiCad once before this so it took a bit.
 
