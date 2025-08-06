@@ -101,10 +101,10 @@ Yeah so I'm still here it's 4 am I uh changed the hole in the unicorn head to be
 
 Time ~ 1 hr (I spent like half the time waiting/recieving feedback so it's only 1 hr not 2 from 2-4 am)
 
-Yeah its 5 AM, power bank go bye bye, wall cable go hello, remove all the work I just did for the battery and make new hole in body for wall cable. Head hole become even smaller.
+Yeah its 5 AM, power bank gone, wall cable replace it, remove all the work I just did for the battery and make new hole in body for wall cable. Head hole become even smaller.
 
 !image[https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/PCB%20does%20not%20fall%20into%20this%20one.png]
 
-I am ONE HUNDRED PERCENT SURE THIS PCB IS NOT FALLING INTO THIS HOLE WHY IS THIS THE 5000th time I've had to remake this hole. Update BOM and README with new changes.
+100% sure PCB is larger than hole in the top of lamp while still allowing for cable.
 
 
