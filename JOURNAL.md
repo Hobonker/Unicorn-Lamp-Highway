@@ -126,3 +126,22 @@ Final update to BOM
 | Screws                   | 2        | N/A I already have                                                      | $0    |
 
 
+
+# 8/12
+
+Put PCB together and soldered
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/PCBLamp.jpg)
+
+~1 hr
+
+
+# 8/13
+Got stuff printed by slicing and stuff
+![image](https://github.com/Hobonker/Unicorn-Lamp-Highway/blob/main/Images/Printed%20Lamp%20Head.jpg)
+
+~0.5 hr
+
+# 8/14
+Assembled, wired, coded
+
+~3 hr
